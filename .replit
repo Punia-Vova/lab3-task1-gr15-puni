@@ -1,2 +1,2 @@
-language = "cpp"
-run = "gcc -o hello /home/runner/project2/src/tasks.cpp"
+language = "c"
+run = "gcc -o hello /home/runner/project2/src/hello.c"
